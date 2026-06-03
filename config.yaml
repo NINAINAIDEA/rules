@@ -27,9 +27,6 @@ proxies:
   - name: 直连
     type: direct
   
-
-
-
 # 全局配置 
 port: 7890
 socks-port: 7891
