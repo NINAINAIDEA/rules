@@ -10,6 +10,13 @@ DOMAIN-SUFFIX,4.ipw.cn
 DOMAIN-SUFFIX,ip.3322.net
 DOMAIN-SUFFIX,myip.ipip.net
 
+DOMAIN,ddns.oray.com
+DOMAIN,v4.66666.host
+DOMAIN,myip.ipip.net
+DOMAIN,v4.666666.host
+DOMAIN,4.ipw.cn
+DOMAIN,ip.3322.net
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
