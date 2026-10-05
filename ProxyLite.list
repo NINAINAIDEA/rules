@@ -11,6 +11,9 @@ DOMAIN-KEYWORD,t.me
 DOMAIN-KEYWORD,*.t.me
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-KEYWORD,tmdb
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
